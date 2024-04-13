@@ -31,7 +31,7 @@ VALUES ('0', '0', '2024-01-01', '2024-01-01', 'Cancelada');
 ## Equipo
 Este equipo esta conformado por las siguientes personas:
 
-| [![Raul Duran](https://avatars.githubusercontent.com/u/79621661?s=96&v=4)](https://github.com/NosakaKing) |
+| [![Raul Duran](https://i.imgur.com/ZsXtlXI.png)](https://github.com/NosakaKing) |
 | --------------------------------------------------------------------------------------------------------------------- |
 | [Raul Duran](https://github.com/NosakaKing)  
 
