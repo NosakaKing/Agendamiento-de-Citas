@@ -31,9 +31,9 @@ VALUES ('0', '0', '2024-01-01', '2024-01-01', 'Cancelada');
 ## Equipo
 Este equipo esta conformado por las siguientes personas:
 
-| [![NosakaKing](https://i.imgur.com/ZsXtlXI.png)](https://github.com/NosakaKing) | [![Justin Moreira](https://i.imgur.com/4Uj64kn.png)](https://github.com/JustinMG4) | [![Wendy Sinin](https://i.imgur.com/Q2ei0wU.png)](https://github.com/AnahiWen20) |
+| [![NosakaKing](https://i.imgur.com/ZsXtlXI.png)](https://github.com/NosakaKing) | [![Justin Moreira](https://i.imgur.com/4Uj64kn.png)](https://github.com/JustinMG4) | [![Wendy Shinin](https://i.imgur.com/Q2ei0wU.png)](https://github.com/AnahiWen20) |
 | --------------------------------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------------------------- |
-| [Raul Duran](https://github.com/NosakaKing) | [Justin Moreira](https://github.com/JustinMG4) | [Wendy Sinin](https://github.com/AnahiWen20) |
+| [Raul Duran](https://github.com/NosakaKing) | [Justin Moreira](https://github.com/JustinMG4) | [Wendy Shinin](https://github.com/AnahiWen20) |
 
 
 
