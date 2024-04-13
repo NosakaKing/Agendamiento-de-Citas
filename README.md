@@ -28,6 +28,7 @@ INSERT INTO centro_estetico.RESERVACION
 VALUES ('0', '0', '2024-01-01', '2024-01-01', 'Cancelada');
 ```
 
+- Despues, debemos ejecutar cada uno de los triggers, estos sirven para la auditoria de actividades
 ## Equipo
 Este equipo esta conformado por las siguientes personas:
 
