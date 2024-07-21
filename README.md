@@ -8,7 +8,7 @@
 <p>Se Utilizo el Sistema Gestor de Base de Datos MySQL Workbench 8.0</p>
 
 - [`Script de La Base de Datos`](https://uniandeseduec-my.sharepoint.com/:u:/g/personal/raulde17_uniandes_edu_ec/ESeohsBgLVFGru1wQ5jhSO0BM626Ib0Pb64hH93dZ8p5sw?e=2fLrhl)
-- [`Triggers de la Base de Datos`](https://uniandeseduec-my.sharepoint.com/:u:/r/personal/raulde17_uniandes_edu_ec/Documents/Universidad%20Uniandes/CUARTO%20SEMESTRE/PROYECTO%20FINAL%20FASE%202/BASE%20DE%20DATOS/TRIGGERS/reporte.sql?csf=1&web=1&e=dgoaGQ)
+- [`Triggers de la Base de Datos`](https://uniandeseduec-my.sharepoint.com/:u:/g/personal/raulde17_uniandes_edu_ec/ETngU3MK3npAsEv20HGwOMEBZ4FLke8IS6FuKHwaRxB8eg?e=sx7Gk6)
 
 ## Instalacion
 Primero debemos descargar los dos archivos de la base de datos, que se mencionan anteriormente. Creamos una nueva base de datos llamada `centro_estetico` la seleccionamos y ejecutamos el Script en la base de datos, por preferencia en `MySQL Workbench 8.0`
